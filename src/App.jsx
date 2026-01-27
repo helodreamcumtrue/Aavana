@@ -23,13 +23,7 @@ import {
 } from 'lucide-react';
 import { motion, AnimatePresence, useScroll, useTransform, useSpring, useInView } from 'framer-motion';
 
-/**
- * AAVANA DIGITAL FLAGSHIP - v5.0
- * Architecture: Swiss-Minimalist / Brutalist
- * Identity: Luxury Organic
- */
 
-// --- DATA LAYER ---
 const PRODUCTS = [
   {
     id: 'REF-AVN-001',
@@ -481,7 +475,7 @@ export default function App() {
                <div className="space-y-10 hidden md:block">
                   <h6 className="text-[10px] font-bold uppercase tracking-[0.8em] opacity-20 italic font-syne">Legal</h6>
                   <div className="text-[10px] font-bold space-y-4 opacity-30 leading-relaxed uppercase tracking-[0.1em]">
-                     <div>FSSAI Ref Index<br/>No: 100xx4500000</div>
+                     <div>Concept by- Lakshay Jain</div>
                      <div className="pt-4 border-t border-neutral-900">Aavana Foods Ltd.<br/>New Delhi, India</div>
                   </div>
                </div>
