@@ -34,41 +34,41 @@ const PRODUCTS = [
   {
     id: 'REF-AVN-001',
     category: 'METABOLIC / ENERGY',
-    flavor: 'Berry Fusion',
-    price: 45.00,
+    flavor: 'Chocolate',
+    price: 70.00,
     color: '#FF2D55',
-    details: 'Wild berries, organic oats, organic honey.',
-    stats: { pro: '12g', fib: '8g', cal: '210' },
+    details: 'Coco, organic oats, organic honey.',
+    stats: { pro: '14g', fib: '8g', cal: '210' },
     image: 'https://images.unsplash.com/photo-1590085018115-235d259e6616?auto=format&fit=crop&q=80&w=800'
   },
   {
     id: 'REF-AVN-002',
     category: 'ANCIENT / GRAINS',
-    flavor: 'Ancient Spice',
-    price: 35.00,
+    flavor: 'Orange',
+    price: 70.00,
     color: '#4CD964',
     details: 'Sprouted millets, sea salt, roasted cumin.',
-    stats: { pro: '4g', fib: '5g', cal: '120' },
+    stats: { pro: '14g', fib: '10g', cal: '125' },
     image: 'https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?auto=format&fit=crop&q=80&w=800'
   },
   {
     id: 'REF-AVN-003',
     category: 'VITALITY / SEEDS',
-    flavor: 'Omega Blend',
+    flavor: 'Straberry',
     price: 60.00,
     color: '#FF9500',
-    details: 'Pumpkin seeds, chia, flax, agave.',
-    stats: { pro: '18g', fib: '4g', cal: '180' },
+    details: 'Straberry, Raspberry, agave.',
+    stats: { pro: '18g', fib: '10g', cal: '180' },
     image: 'https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&q=80&w=800'
   },
   {
     id: 'REF-AVN-004',
     category: 'HERITAGE / CLEAN',
-    flavor: 'Classic Clean',
-    price: 40.00,
+    flavor: 'Kiwi',
+    price: 70.00,
     color: '#FFCC00',
-    details: 'Cold-pressed peanut oil, organic spices.',
-    stats: { pro: '6g', fib: '3g', cal: '150' },
+    details: 'Kiwi, organic spices.',
+    stats: { pro: '16g', fib: '13g', cal: '190' },
     image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=800'
   }
 ];
@@ -488,7 +488,7 @@ export default function App() {
             </div>
           </div>
           <div className="pt-12 border-t border-neutral-900/50 flex flex-col md:flex-row justify-between items-center text-[9px] font-bold uppercase tracking-[0.8em] opacity-10 italic gap-12">
-            <span className="text-center">© 2026 AAVANA ORGANICS — REGION INDIA</span>
+            <span className="text-center">© 2026 AAVANA ORGANICS, Concept by - Lakshay Jain</span>
             <div className="flex flex-wrap justify-center gap-12">
                <span className="border-b border-neutral-900 pb-1">Non-GMO</span>
                <span className="border-b border-neutral-900 pb-1">Zero Plastic Aim</span>
