@@ -219,11 +219,11 @@ const Home = ({ setView }) => {
              transition={{ duration: 2, ease: [0.16, 1, 0.3, 1] }}
              className="lg:col-span-5 relative aspect-[4/5] bg-neutral-100 rounded-[50px] overflow-hidden group shadow-2xl"
            >
-              <img src="https://images.unsplash.com/photo-1540439844524-604bc8b83e71?auto=format&fit=crop&q=80&w=1200" className="w-full h-full object-cover grayscale opacity-60 transition-transform duration-[10s] group-hover:scale-110" alt="" />
+              <img src="hello.png?auto=format&fit=crop&q=80&w=1200" className="w-full h-full object-cover grayscale opacity-60 transition-transform duration-[10s] group-hover:scale-110" alt="" />
               <div className="absolute inset-0 bg-black/5" />
               <div className="absolute bottom-12 left-12 p-8 bg-white/10 backdrop-blur-xl rounded-[32px] border border-white/30 text-white space-y-2">
-                 <div className="text-[10px] font-bold uppercase tracking-widest opacity-80">Reference Artifact</div>
-                 <div className="text-3xl font-syne font-bold uppercase tracking-tighter italic">Berry Prime 04</div>
+                 <div className="text-[10px] font-bold uppercase tracking-widest opacity-80">Shop Now </div>
+                 <div className="text-3xl font-syne font-bold uppercase tracking-tighter italic"> </div>
               </div>
            </motion.div>
         </div>
