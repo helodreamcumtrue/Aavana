@@ -39,7 +39,7 @@ const PRODUCTS = [
     color: '#FF2D55',
     details: 'Coco, organic oats, organic honey.',
     stats: { pro: '14g', fib: '8g', cal: '210' },
-    image: 'https://images.unsplash.com/photo-1590085018115-235d259e6616?auto=format&fit=crop&q=80&w=800'
+    image: 'cho.jpg'
   },
   {
     id: 'REF-AVN-002',
@@ -49,7 +49,7 @@ const PRODUCTS = [
     color: '#4CD964',
     details: 'Sprouted millets, sea salt, roasted cumin.',
     stats: { pro: '14g', fib: '10g', cal: '125' },
-    image: 'https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?auto=format&fit=crop&q=80&w=800'
+    image: 'oran.jpg'
   },
   {
     id: 'REF-AVN-003',
@@ -59,7 +59,7 @@ const PRODUCTS = [
     color: '#FF9500',
     details: 'Straberry, Raspberry, agave.',
     stats: { pro: '18g', fib: '10g', cal: '180' },
-    image: 'https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&q=80&w=800'
+    image: 'stra.jpg'
   },
   {
     id: 'REF-AVN-004',
@@ -69,7 +69,7 @@ const PRODUCTS = [
     color: '#FFCC00',
     details: 'Kiwi, organic spices.',
     stats: { pro: '16g', fib: '13g', cal: '190' },
-    image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=800'
+    image: ' '
   }
 ];
 
