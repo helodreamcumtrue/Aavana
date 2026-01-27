@@ -366,9 +366,9 @@ const Ethos = () => (
          <div className="grid lg:grid-cols-2 gap-48 items-center">
             <div className="space-y-16">
                <span className="text-[12px] font-bold uppercase tracking-[1em] text-neutral-300 block font-syne">01 / GENESIS</span>
-               <h3 className="text-6xl md:text-[6vw] font-syne font-bold italic tracking-tighter leading-[0.8] uppercase">Born in<br/>the soil.</h3>
+               <h3 className="text-6xl md:text-[6vw] font-syne font-bold italic tracking-tighter leading-[0.8] uppercase">The <br/>Philosophy.</h3>
                <p className="text-3xl font-light text-neutral-500 leading-relaxed italic pr-20">
-                 We partner with farmers who follow responsible and ethical practices. Building long-term relationships that guarantee purity as a baseline.
+                 Energy isn't a lab-grown chemical compound. It's a basic human right derived from raw, earthen integrity.
                </p>
             </div>
             <div className="aspect-[4/5] bg-neutral-100 rounded-[80px] overflow-hidden shadow-2xl border border-neutral-100 relative group">
@@ -467,21 +467,21 @@ export default function App() {
                   <h6 className="text-[10px] font-bold uppercase tracking-[0.8em] opacity-20 italic font-syne">Index</h6>
                   <ul className="space-y-6 text-[11px] font-bold uppercase tracking-[0.2em] italic">
                      <li onClick={() => setView('pantry')} className="cursor-pointer hover:text-neutral-400 transition-colors">The Store</li>
-                     <li onClick={() => setView('ethos')} className="cursor-pointer hover:text-neutral-400 transition-colors">Manifesto</li>
-                     <li className="opacity-10 cursor-not-allowed">Archives</li>
+                     <li onClick={() => setView('ethos')} className="cursor-pointer hover:text-neutral-400 transition-colors">Ethos</li>
+                     <li className="opacity-10 cursor-not-allowed"> </li>
                   </ul>
                </div>
                <div className="space-y-10">
-                  <h6 className="text-[10px] font-bold uppercase tracking-[0.8em] opacity-20 italic font-syne">Dialogue</h6>
+                  <h6 className="text-[10px] font-bold uppercase tracking-[0.8em] opacity-20 italic font-syne"> </h6>
                   <ul className="space-y-6 text-[11px] font-bold uppercase tracking-[0.2em] italic">
-                     <li className="cursor-pointer hover:text-neutral-400 transition-colors underline decoration-neutral-800 underline-offset-4">Instagram</li>
-                     <li className="cursor-pointer hover:text-neutral-400 transition-colors underline decoration-neutral-800 underline-offset-4">Twitter</li>
+                     <li className="cursor-pointer hover:text-neutral-400 transition-colors underline decoration-neutral-800 underline-offset-4"> </li>
+                     <li className="cursor-pointer hover:text-neutral-400 transition-colors underline decoration-neutral-800 underline-offset-4"> </li>
                   </ul>
                </div>
                <div className="space-y-10 hidden md:block">
                   <h6 className="text-[10px] font-bold uppercase tracking-[0.8em] opacity-20 italic font-syne">Legal</h6>
                   <div className="text-[10px] font-bold space-y-4 opacity-30 leading-relaxed uppercase tracking-[0.1em]">
-                     <div>FSSAI Ref Index<br/>No: 100234500000</div>
+                     <div>FSSAI Ref Index<br/>No: 100xx4500000</div>
                      <div className="pt-4 border-t border-neutral-900">Aavana Foods Ltd.<br/>New Delhi, India</div>
                   </div>
                </div>
