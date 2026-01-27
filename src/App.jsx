@@ -63,7 +63,7 @@ const PRODUCTS = [
     color: '#FFCC00',
     details: 'Kiwi, organic spices.',
     stats: { pro: '16g', fib: '13g', cal: '190' },
-    image: ' '
+    image: 'kiwii.png'
   }
 ];
 
