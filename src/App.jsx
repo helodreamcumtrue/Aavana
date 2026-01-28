@@ -196,7 +196,7 @@ const Home = ({ setView }) => {
             className="lg:col-span-7 space-y-12 z-10"
            >
               <div className="flex items-center gap-6">
-                 <span className="text-[10px] font-bold uppercase tracking-[0.5em] text-neutral-300 italic">2026 // Source Index</span>
+                 <span className="text-[10px] font-bold uppercase tracking-[0.5em] text-neutral-300 italic">*This website is a demonstration only. No real transactions or data are used.</span>
                  <div className="h-[1px] w-12 bg-neutral-200" />
               </div>
               <h2 className="text-[12vw] lg:text-[9vw] font-syne font-black leading-[0.8] tracking-tighter uppercase ink-text">
